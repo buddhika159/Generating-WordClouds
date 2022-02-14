@@ -5,10 +5,29 @@
 ## Description:
 
 <p float="left">
-  <img src="img/us.png" width="45%" />
-  <img src="img/us_wine.png" width="45%" /> 
+  <img src="img/us.png" width="49%" />
+  <img src="img/us_wine.png" width="49%" /> 
 </p>
 
+<p float="left">
+  <img src="img/france.png" width="49%" />
+  <img src="img/france_wine.png" width="49%" /> 
+</p>
+
+<p float="left">
+  <img src="img/italy.png" width="49%" />
+  <img src="img/italy_wine.png" width="49%" /> 
+</p>
+
+<p float="left">
+  <img src="img/spain.png" width="49%" />
+  <img src="img/spain_wine.png" width="49%" /> 
+</p>
+
+<p float="left">
+  <img src="img/Protugal.png" width="49%" />
+  <img src="img/protugal_wine.png" width="49%" /> 
+</p>
 ## Dataset Content:
 
 In this tutorial we will use a wine review dataset taking from Wine Enthusiast website to learn:
