@@ -4,8 +4,8 @@
 
 ## Description:
 
-<p float="left">
-  <img src="img/us.png" width="49%" align="middle" />
+<p float="left" align="middle">
+  <img src="img/us.png" width="49%" />
   <img src="img/us_wine.png" width="49%" /> 
 </p>
 
