@@ -4,7 +4,7 @@
 
 ## Description:
 
-![Image detaset]![us](https://user-images.githubusercontent.com/41227474/153787437-76bdc013-2047-4524-a267-9be901dc87db.png)
+![us](https://user-images.githubusercontent.com/41227474/153787437-76bdc013-2047-4524-a267-9be901dc87db.png)
 
 
 ## Dataset Content:
