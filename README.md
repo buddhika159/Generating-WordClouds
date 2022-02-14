@@ -5,8 +5,8 @@
 ## Description:
 
 <p float="left">
-  <img src="img/us.png" width="500" />
-  <img src="img/us_wine.png" width="500" /> 
+  <img src="img/us.png" width="45%" />
+  <img src="img/us_wine.png" width="45%" /> 
 </p>
 
 ## Dataset Content:
