@@ -5,7 +5,7 @@
 ## Description:
 
 <p float="left">
-  <img src="img/us.png" width="49%" />
+  <img src="img/us.png" width="49%" align="middle" />
   <img src="img/us_wine.png" width="49%" /> 
 </p>
 
@@ -41,11 +41,11 @@ In this tutorial we will use a wine review dataset taking from Wine Enthusiast w
 
 This images has been collected from Pinterest and cropped. There are 105 celebrities and 17534 faces
 
-#### Dataset Link: https://www.kaggle.com/hereisburak/pins-face-recognition 
+#### Dataset Link: https://www.kaggle.com/zynicide/wine-reviews
 
 ## Prerequisites:
 
-Below libraries are needed to execute the Python code
+Below libraries are needed to execute this Python code.
 
  - numpy
  - pandas
