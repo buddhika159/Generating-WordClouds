@@ -26,8 +26,10 @@
 
 <p float="left">
   <img src="img/Portugal.png" width="49%" />
-  <img src="img/protugal_wine.png" width="49%" /> 
+  <img src="img/portugal_wine.png" width="49%" /> 
 </p>
+
+
 ## Dataset Content:
 
 In this tutorial we will use a wine review dataset taking from Wine Enthusiast website to learn:
