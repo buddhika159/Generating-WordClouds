@@ -4,10 +4,9 @@
 
 ## Description:
 
-![us](https://user-images.githubusercontent.com/41227474/153787437-76bdc013-2047-4524-a267-9be901dc87db.png)
 <p float="left">
-  <img src="img/us.png" width="100" />
-  <img src="img/us_wine.png" width="100" /> 
+  <img src="img/us.png" width="1000" />
+  <img src="img/us_wine.png" width="1000" /> 
 </p>
 
 ## Dataset Content:
