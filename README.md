@@ -4,6 +4,14 @@
 
 ## Description:
 
+In this we will use a wine review dataset taken from Wine Enthusiast website to learn:
+
+ - How to create a basic wordcloud from one to several text documents
+ - Adjust color, size and number of text inside your wordcloud
+ - Mask your wordcloud into any shape of your choice
+ - Mask your wordcloud into any color pattern of your choice
+
+
 <p float="left" align="middle">
   <img src="img/us.png" width="49%" />
   <img src="img/us_wine.png" width="49%" /> 
@@ -32,14 +40,7 @@
 
 ## Dataset Content:
 
-In this tutorial we will use a wine review dataset taking from Wine Enthusiast website to learn:
-
- - How to create a basic wordcloud from one to several text documents
- - Adjust color, size and number of text inside your wordcloud
- - Mask your wordcloud into any shape of your choice
- - Mask your wordcloud into any color pattern of your choice
-
-This images has been collected from Pinterest and cropped. There are 105 celebrities and 17534 faces
+This project uses the wine review dataset from Kaggle. This collection is a great dataset for learning with no missing values (which will take time to handle) and a lot of text (wine reviews), categorical, and numerical data.
 
 #### Dataset Link: https://www.kaggle.com/zynicide/wine-reviews
 
