@@ -9,22 +9,22 @@
   <img src="img/us_wine.png" width="49%" /> 
 </p>
 
-<p float="left">
+<p float="left" align="middle">
   <img src="img/france.png" width="49%" />
   <img src="img/france_wine.png" width="49%" /> 
 </p>
 
-<p float="left">
+<p float="left" align="middle">
   <img src="img/italy.png" width="49%" />
   <img src="img/italy_wine.png" width="49%" /> 
 </p>
 
-<p float="left">
+<p float="left" align="middle">
   <img src="img/spain.png" width="49%" />
   <img src="img/spain_wine.png" width="49%" /> 
 </p>
 
-<p float="left">
+<p float="left" align="middle">
   <img src="img/Portugal.png" width="49%" />
   <img src="img/portugal_wine.png" width="49%" /> 
 </p>
