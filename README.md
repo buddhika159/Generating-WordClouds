@@ -1,6 +1,7 @@
 # Generating WordClouds in Python
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
- - Learn how to perform Exploratory Data Analysis for Natural Language Processing using WordCloud in Python.
+
+Learn how to perform Exploratory Data Analysis for Natural Language Processing using WordCloud in Python.
 
 ## Description:
 
