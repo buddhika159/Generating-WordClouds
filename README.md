@@ -25,7 +25,7 @@
 </p>
 
 <p float="left">
-  <img src="img/Protugal.png" width="49%" />
+  <img src="img/Portugal.png" width="49%" />
   <img src="img/protugal_wine.png" width="49%" /> 
 </p>
 ## Dataset Content:
